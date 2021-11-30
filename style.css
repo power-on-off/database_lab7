@@ -1,0 +1,25 @@
+.container {
+    width: 70%;
+    margin: 0 auto;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    bottom: 10px;
+}
+.container h2{
+    text-decoration: underline;
+}
+
+.container tr{
+   border:1px solid black;
+}
+.container table{
+   border:1px solid black;
+}
+.container th{
+   border:1px solid black;
+}
+.footer {
+  text-align: center;
+  padding: 10px;
+}
+ 
